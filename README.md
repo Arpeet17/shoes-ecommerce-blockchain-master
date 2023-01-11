@@ -15,7 +15,7 @@ First, run the development server:
 
 ```bash
 npm install
-# or
+# orgg
 yarn instll
 
 # and Now:
