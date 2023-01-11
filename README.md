@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nike Store Commerce Web Application! Check Live: [https://nike-store-jsstack.vercel.app/](https://nike-store-jsstack.vercel.app/)
 - Pre-requisites: Nothings! Just Stuck into This Course
 This project is developed and designed by JSSTACK DEVELOPERS (`#ahmed_js 😅🚀🚀🚀`).
@@ -30,3 +31,7 @@ You can start editing the page by modifying `src/App.jsx`. The page auto-updates
 
 ## Deploy on Vercel
 Check out our [This Project On Vercel](https://travigo-travel-jsstack.vercel.app) for more details.
+=======
+Details are here.
+...!
+>>>>>>> c01fec791638591e3abe77dbeecd0c385fef327b
