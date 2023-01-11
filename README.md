@@ -22,7 +22,7 @@ yarn instll
 # and Now:
 
 npm run dev
-# or
+# orgdg
 yarn dev
 ```
 Open [http://localhost:5173/](http://localhost:5173/) with your browser to see the result.
@@ -34,4 +34,3 @@ Check out our [This Project On Vercel](https://travigo-travel-jsstack.vercel.app
 =======
 Details are here.
 ...!
->>>>>>> c01fec791638591e3abe77dbeecd0c385fef327b
