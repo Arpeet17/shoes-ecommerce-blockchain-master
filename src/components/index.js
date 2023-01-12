@@ -1,3 +1,4 @@
+export { default as Login } from './Login.jsx';
 export { default as Navbar } from './Navbar.jsx';
 export { default as Cart } from './Cart.jsx';
 export { default as Hero } from './Hero.jsx';
