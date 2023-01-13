@@ -59,12 +59,12 @@ return (
                     </button>
                 </li>
                 <li className='grid items-center'>
-                    <button type='button' onclick={login} >
+                    <button type='button' onClick={login} className='border-none outline-none active:scale-110 transition-all duration-300 relative' style={{ color:'white'}}>
                         Login
                     </button>
                 </li>
                 <li className='grid items-center'>
-                    <button type='button' onclick={login} >
+                    <button type='button' onClick={login} className='border-none outline-none active:scale-110 transition-all duration-300 relative 'style={{ color:'white'}}>
                         Signup
                     </button>
                 </li>
