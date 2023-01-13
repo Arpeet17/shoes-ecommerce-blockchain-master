@@ -14,7 +14,7 @@ This is a [Vite.js](https://vitejs.dev/) project bootstrapped with [`npm create 
 
 First, run the development server:
 
-```bash
+bash
 npm install
 # orgg
 yarn instll
